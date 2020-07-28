@@ -12,7 +12,7 @@ public class Hello
         UIManager.setLookAndFeel(UIManager.getSystemLookAndFeelClassName());
         try
         {
-            Thread.sleep(50);
+            Thread.sleep(5000);
         }
         catch (InterruptedException e)
         {
